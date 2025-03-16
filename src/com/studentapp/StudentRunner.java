@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.function.Supplier;
 
-public class StudentConsoleOptions {
+public class StudentRunner {
 
 	private static List<Student> studentList;
 	private static Scanner scanner;
